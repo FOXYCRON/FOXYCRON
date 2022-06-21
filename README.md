@@ -9,15 +9,15 @@
 
 - 🔭 Actualmente estoy trabajando en [Galactic Bot](https://discord.com/oauth2/authorize?client_id=639207679616614412&scope=bot&permissions=2146958847)
 
-- actualmente estoy aprendiendo **Css y l**
+- actualmente estoy aprendiendo **Css y JavaScript**
 
 - 👯 Estoy buscando **. . .**
 
-- 🤝 Estoy buscando ayuda con **JavaScript**
+- 📝 Me gusta tomar fotografias [Instagram](https://www.instagram.com/irvin_adrian04/)
 
 - 👨‍💻 Todos mis proyectos están disponibles. [. . .](. . .)
 
-- 📝 Me gusta tomar fotografias [https://www.instagram.com/irvin_adrian04/](https://www.instagram.com/irvin_adrian04/)
+- 🤝 Estoy buscando ayuda con [JavaScript](JavaScript)
 
 - 📫 Discord **FOXYCRON#3885**
 
