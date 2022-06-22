@@ -11,7 +11,7 @@
 
 - actualmente estoy aprendiendo **Css y JavaScript**
 
-- 👯 Estoy buscando **. . .**
+- 👯 CodePen **[code](https://codepen.io/foxycron)**
 
 - 📝 Me gusta tomar fotografias [Instagram](https://www.instagram.com/irvin_adrian04/)
 
