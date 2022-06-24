@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/foxycronyt" target="blank"><img src="https://img.shields.io/twitter/follow/foxycronyt?logo=twitter&style=for-the-badge" alt="foxycronyt" /></a> </p>
 
-- Ando empezando mi portafolio [proximamente](https://youtube.com/channel/FOXYCRON)
+- 👨‍💻 Todos mis proyectos están disponibles. [Proximamente](. . .)
 
 - 🔭 Actualmente estoy trabajando en [Galactic Bot](https://discord.com/oauth2/authorize?client_id=639207679616614412&scope=bot&permissions=2146958847)
 
@@ -16,8 +16,6 @@
 - 👯 CodePen **[code](https://codepen.io/foxycron)**
 
 - 📝 Me gusta tomar fotografias [Instagram](https://www.instagram.com/irvin_adrian04/)
-
-- 👨‍💻 Todos mis proyectos están disponibles. [. . .](. . .)
 
 - 🤝 Estoy buscando ayuda con [JavaScript](JavaScript)
 
