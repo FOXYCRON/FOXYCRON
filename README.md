@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Irvin Adrian</h1>
-<h3 align="center">Un apasionado desarrollador novato de México</h3>
+<h1 align="center" >Hola 👋, Me llamo Irvin Adrian </h1>
+<h3 align="center"> Un apasionado desarrollador novato de México. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxycron&label=Profile%20views&color=0e75b6&style=flat" alt="foxycron" /> </p>
 
