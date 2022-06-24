@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/foxycronyt" target="blank"><img src="https://img.shields.io/twitter/follow/foxycronyt?logo=twitter&style=for-the-badge" alt="foxycronyt" /></a> </p>
 
+- Ando empezando mi portafolio [proximamente](https://youtube.com/channel/FOXYCRON)
+
 - 🔭 Actualmente estoy trabajando en [Galactic Bot](https://discord.com/oauth2/authorize?client_id=639207679616614412&scope=bot&permissions=2146958847)
 
 - actualmente estoy aprendiendo **Css y JavaScript**
