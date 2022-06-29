@@ -9,13 +9,13 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles. [PortaWeb](https://portaweb.tk)
 
+- 📝 Me gusta tomar fotografias [Instagram](https://www.instagram.com/irvin_adrian04/)
+
 - 🔭 Actualmente estoy trabajando en [Galactic Bot](https://discord.com/oauth2/authorize?client_id=639207679616614412&scope=bot&permissions=2146958847)
 
 - actualmente estoy aprendiendo **Css y JavaScript**
 
 - 👯 CodePen **[code](https://codepen.io/foxycron)**
-
-- 📝 Me gusta tomar fotografias [Instagram](https://www.instagram.com/irvin_adrian04/)
 
 - 🤝 Estoy buscando ayuda con [JavaScript](JavaScript)
 
