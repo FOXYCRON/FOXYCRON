@@ -21,7 +21,7 @@
 
 - 📫 Discord **FOXYCRON#3885**
 
-<h3 align="left">Conectate conmigo:</h3>
+<h3 align="left"> Contactate conmigo: </h3>
 <p align="left">
 <a href="https://twitter.com/foxycronyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foxycronyt" height="30" width="40" /></a>
 <a href="https://instagram.com/irvin_adrian04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irvin_adrian04" height="30" width="40" /></a>
