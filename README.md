@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center"> 
+<p align="center" > 
 Me gusta editar fotos/videos, tomar fotos, programar, jugar videojuegos, pasear y otras cosas, trato de ser activo publicando fotos en mi instagram 
 (esta mas abajo xd)
  </p>
