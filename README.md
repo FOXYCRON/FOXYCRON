@@ -4,10 +4,14 @@
 
 <br>
 
+
 <p align="center" > 
-Me gusta editar fotos/videos, tomar fotos, programar, jugar videojuegos, pasear y otras cosas, trato de ser activo publicando fotos en mi instagram 
+<marquee> Me gusta editar fotos/videos, tomar fotos, programar, jugar videojuegos, pasear y otras cosas, trato de ser activo publicando fotos en mi instagram 
 (esta mas abajo xd)
+</marquee>
  </p>
+
+
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=foxycron&label=Profile%20views&color=0e75b6&style=flat" alt="foxycron" /> </p>
@@ -18,6 +22,8 @@ Me gusta editar fotos/videos, tomar fotos, programar, jugar videojuegos, pasear 
 
 <hr>
 
+
+<div align = "center">
 
 - 👨‍💻 Todos mis proyectos están disponibles.  [PortaWeb](https://portaweb.tk)
 
@@ -32,6 +38,8 @@ Me gusta editar fotos/videos, tomar fotos, programar, jugar videojuegos, pasear 
 - 🤝 Estoy buscando ayuda con [JavaScript](JavaScript)
 
 - 📫 Discord **FOXYCRON#3885**
+</div>
+
 
 <hr>
 
@@ -52,4 +60,7 @@ Me gusta editar fotos/videos, tomar fotos, programar, jugar videojuegos, pasear 
 <hr>
 <br>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=foxycron&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="foxycron" /></p>
+</div>
+
