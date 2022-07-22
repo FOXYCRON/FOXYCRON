@@ -65,6 +65,8 @@
 </div>
 
 <br>
+<hr>
+<br>
 
 
 <h1 align = "center"> Discord </h1>
