@@ -64,3 +64,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=foxycron&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="foxycron" /></p>
 </div>
 
+<br>
+<hr>
+<br>
+
+
+# Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/456941687588126721)](https://discord.com/users/456941687588126721)
