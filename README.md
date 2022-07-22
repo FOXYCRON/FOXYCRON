@@ -16,7 +16,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=foxycron&label=Profile%20views&color=0e75b6&style=flat" alt="foxycron" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foxycron" alt="foxycron" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foxycron&theme=dracula" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/FOXYCRONYT" target="blank"><img src="https://img.shields.io/twitter/follow/foxycronyt?logo=twitter&style=for-the-badge" alt="foxycronyt" /></a> </p>
 
