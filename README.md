@@ -71,4 +71,4 @@
 
 <h1 align = "center"> Discord </h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/456941687588126721)](https://discord.com/users/456941687588126721)
+[![Discord Presence align = "center"](https://lanyard.cnrad.dev/api/456941687588126721)](https://discord.com/users/456941687588126721)
