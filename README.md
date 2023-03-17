@@ -25,19 +25,19 @@
 
 <div align = "center">
 
-- 👨‍💻 Todos mis proyectos están disponibles.  [PortaWeb](https://portaweb.tk)
+ 👨‍💻 Todos mis proyectos están disponibles.  [PortaWeb](https://portaweb.tk)
 
-- 📝 Me gusta tomar fotografias [Instagram](https://www.instagram.com/irvin_adrian04/)
+ 📝 Me gusta tomar fotografias [Instagram](https://www.instagram.com/irvin_adrian04/)
 
-- 🔭 Actualmente estoy trabajando en [Galactic Bot](https://discord.com/oauth2/authorize?client_id=639207679616614412&scope=bot&permissions=2146958847)
+ 🔭 Actualmente estoy trabajando en [Galactic Bot](https://discord.com/oauth2/authorize?client_id=639207679616614412&scope=bot&permissions=2146958847)
 
-- actualmente estoy aprendiendo **Css y JavaScript**
+ actualmente estoy aprendiendo **Css y JavaScript**
 
-- 👯 CodePen **[code](https://codepen.io/foxycron)**
+ 👯 CodePen **[code](https://codepen.io/foxycron)**
 
-- 🤝 Estoy buscando ayuda con [JavaScript](JavaScript)
+ 🤝 Estoy buscando ayuda con [JavaScript](JavaScript)
 
-- 📫 Discord **FOXYCRON#3885**
+ 📫 Discord **FOXYCRON#3885**
 </div>
 
 
